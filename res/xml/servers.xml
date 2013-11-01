@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<servers>
+    <server name="Lycenway" url="https://lycenway-com-dev-ed.my.salesforce.com"/>
+    <server name="Production" url="https://login.salesforce.com"/>
+    <server name="Sandbox" url="https://test.salesforce.com"/>
+</servers>
